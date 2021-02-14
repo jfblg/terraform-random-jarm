@@ -1,7 +1,6 @@
 variable "random_length" {
     description = "Length of generated string"
     type = number
-    default = 10
 }
 
 variable "random_upper" {
